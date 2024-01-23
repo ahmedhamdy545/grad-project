@@ -1,0 +1,14 @@
+train: /content/yolo_data/images/train 
+val: /content/yolo_data/images/val 
+# Classes
+nc: 7
+names: ['black_car', 'blue_car', 'gray_car', 'green_car', 'red_car', 'white_car', 'yellow_car']
+
+
+
+
+
+
+
+
+
